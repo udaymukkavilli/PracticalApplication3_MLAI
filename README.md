@@ -1,1 +1,3 @@
 # PracticalApplication3_MLAI
+
+In this practical application, the marketing campaign results from a Portugese bank was analyzed. A predictive logistic regression model was built to determine if a customer will agree to subscribe to a term deposit. The results indicate that logistic regression can create a model that is nearly 90% accurate. Additionally, based on the confusion matrices, there is an issue of false positives and negatives inherent to the marketing campaign. Further actions were recommended based on the model, such as following up with potential customers and pushing customers to verbally agree to a term deposit.
